@@ -2,7 +2,7 @@
   "name": "tpk",
   "version": "1.0.0",
   "description": "Tpk Spammer API Telegram",
-  "main": "app.js, spam.js",
+  "main": "app.js",
   "dependencies": {
     "asynckit": "^0.4.0",
     "axios": "^1.6.7",
